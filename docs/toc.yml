@@ -1,4 +1,18 @@
--name
-- name: Microsoft SCCM
-  href: microsoft/sccm
+- name: Docs
   homepage: index.md
+- name: Apple
+  href: apple/
+  homepage: apple/index.md
+- name: Microsoft
+  href: microsoft/
+  homepage: microsoft/index.md
+- name: PSADT
+  href: psadt/
+  homepage: psadt/index.md
+- name: Learning
+  href: learning/
+  homepage: learning/index.md 
+- name: Random Thoughts
+  href: random/
+  homepage: random/index.md
+

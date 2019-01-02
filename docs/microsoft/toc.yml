@@ -1,0 +1,4 @@
+- name: MDT
+  href: mdt/toc.yml
+- name: SCCM
+  href: sccm/toc.yml

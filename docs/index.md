@@ -1,3 +1,3 @@
 ---
 ---
-# Welcome to docs.thetechguy.com
+# Welcome to TheTechGuy Docs
