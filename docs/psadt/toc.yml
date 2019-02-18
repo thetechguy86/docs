@@ -1,4 +1,4 @@
-- name: Getting Started
+- name: Overview
   items:
-  - name: Introduction
-    href: introduction.md
+  - name: What is PowerShell App Deployment Toolkit
+    href: what-is-psadt.md
